@@ -7,4 +7,4 @@ edition = "2018"
 [dependencies]
 quicksilver = "0.3"
 stdweb = "0.4"
-rgy = { path = "../gbr/core" }
+rgy = { git = "https://github.com/YushiOMOTE/rgy.git" }
